@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": "laharon-ki-lipiyan",
+      "title": "लहरों की लिपियाँ",
+      "englishTitle": "Laharon Ki Lipiyan",
+      "author": "Subodhmadhupati.sahityka",
+      "subtitle": "कविताएँ, भावनाएँ और जीवन के अनकहे स्वर",
+      "description": "A poetic journey across memory, love, solitude and life. These words invite readers to pause, feel deeply, and discover meaning in the quiet spaces between moments.",
+      "price": 399,
+      "currency": "INR",
+      "cover": "/images/book-cover.jpg",
+      "format": "Paperback",
+      "language": "Hindi"
+    }
+  ],
+  "posts": [
+    {
+      "id": "sea-patience",
+      "title": "What the Sea Teaches About Patience",
+      "category": "Reflection",
+      "excerpt": "The horizon asks us to wait, watch, and trust the journey.",
+      "body": "The sea rarely explains itself. It asks us to observe, to remain steady when the weather changes, and to understand that not every horizon arrives on our schedule. Patience is not inactivity; it is preparation with faith.",
+      "published": true,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "uniform-feelings",
+      "title": "Some Feelings Find No Uniform",
+      "category": "Poetry & Life",
+      "excerpt": "Behind every role we play, there is a private human story.",
+      "body": "A uniform represents duty, courage, and responsibility. Yet beneath every uniform is a human heart—one that remembers, hopes, misses, and quietly dreams. Writing gives those softer truths a place to breathe.",
+      "published": true,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "memories-words",
+      "title": "Turning Memories Into Words",
+      "category": "Writing Life",
+      "excerpt": "A notebook can hold the things we are not ready to say aloud.",
+      "body": "Sometimes a memory returns like a tide. A sentence can be a safe harbour for it. We write not to preserve every detail, but to understand what an experience has left within us.",
+      "published": true,
+      "date": "2026-09-01"
+    }
+  ],
+  "messages": [],
+  "subscribers": [],
+  "orders": []
+}
